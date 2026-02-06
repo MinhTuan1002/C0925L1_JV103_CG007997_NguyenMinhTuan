@@ -74,7 +74,7 @@ public class ContactService {
                     "nguyenthib@codegym.vn"
             ));
 
-            FileUtils.save(list); 
+            FileUtils.save(list);
         }
     }
 
