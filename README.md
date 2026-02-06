@@ -7,7 +7,8 @@
 * main – giao diện console
 
 
-* Thông tin danh bạ
+### * Thông tin danh bạ
+
 * Mỗi liên hệ gồm các trường:
 * Số điện thoại
 * Nhóm
